@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+}
+
+.cabecalho {
+    background: radial-gradient(rgb(228, 115, 23), transparent);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
